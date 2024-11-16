@@ -21,4 +21,4 @@ code=("""
 st.code(code,language="python")
 st.metric(label="Wind Speed",value="120ms-1",delta="1.4ms-1")
 table=pd.DataFrame({"Column 1":[1,2,3,4,5],"Column 2":[6,7,8,9,10]})
-st.table(label="Example Table",table)
+st.table(table)
