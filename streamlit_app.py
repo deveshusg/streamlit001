@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('ML App Test 01')
+st.title('Streamlit Intro')
 
-st.write('Hello world!')
+st.write('Streamlit is s python framework for web applicstions.')
