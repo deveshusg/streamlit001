@@ -1,5 +1,5 @@
 import streamlit as st
-import panda as pd
+import pandas as pd
 st.title('Streamlit Intro')
 st.header('Header')
 st.subheader('Subheader')
