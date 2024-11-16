@@ -19,3 +19,4 @@ code=("""
         new_array=array*2
       """)
 st.code(code,language="python")
+st.metric(label="Wind Speed",valie="120ms\^-1",delta="1.4ms\^-1")
